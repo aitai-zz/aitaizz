@@ -1,31 +1,42 @@
-+.tradingview.com
-+.prodata.tradingview.com
-+.data.tradingview.com
-+.trdlg.tradingview.com
-+.notifications.tradingview.com
-+.pushstream.tradingview.com
-+.symbol-search.tradingview.com
-+.scanner.tradingview.com
-+.chart.tradingview.com
-+.widget.tradingview.com
-+.ws.tradingview.com
-+.wss.tradingview.com
-+.wss.push.tradingview.com
-+.accounts.tradingview.com
-+.c.static.tradingview.com
-+.tvds.tradingview.com
-+.api.tradingview.com
-+.binance.com
-+.www.binance.com
-+.accounts.binance.com
-+.api.binance.com
-+.www.binanceapis.com
-+.api1.binance.com
-+.api2.binance.com
-+.api3.binance.com
-+.bin.bnbstatic.com
-+.sentry.io
-+.onetrust.com
-+.jsdelivr.net
-+.googletagmanager.com
-+.google-analytics.com
+payload:
+  # TradingView
+  - charts-storage.tradingview.com
+  - prodata.tradingview.com
+  - data.tradingview.com
+  - trdlg.tradingview.com
+  - notifications.tradingview.com
+  - pushstream.tradingview.com
+  - symbol-search.tradingview.com
+  - scanner.tradingview.com
+  - chart.tradingview.com
+  - widget.tradingview.com
+  - ws.tradingview.com
+  - wss.tradingview.com
+  - wss.push.tradingview.com
+  - accounts.tradingview.com
+  - c.static.tradingview.com
+  - tvds.tradingview.com
+  - api.tradingview.com
+  - tradingview.com
+  - +.tradingview.com
+
+  # Binance
+  - binance.com
+  - www.binance.com
+  - accounts.binance.com
+  - api.binance.com
+  - www.binanceapis.com
+  - api1.binance.com
+  - api2.binance.com
+  - api3.binance.com
+  - bin.bnbstatic.com
+  - +.binance.com
+  - +.binanceapis.com
+  - +.bnbstatic.com
+
+  # 常见依赖服务
+  - sentry.io
+  - onetrust.com
+  - jsdelivr.net
+  - googletagmanager.com
+  - google-analytics.com
